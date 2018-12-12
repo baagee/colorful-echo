@@ -1,0 +1,18 @@
+{
+  "name": "baagee/colorful-echo",
+  "description": "php cli colorful echo/print",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "BaAGee",
+      "email": "2274313786@qq.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "BaAGee\\": "src/"
+    }
+  },
+  "require": {}
+}
